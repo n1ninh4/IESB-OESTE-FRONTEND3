@@ -1,8 +1,8 @@
 ---
-name: "Vamos definir futuramente..."
-about: "Vamos definir futuramente..."
-title: "Vamos definir futuramente..."
-labels: ["Vamos definir futuramente..."]
+name: "Prática 01"
+about: "Template para criar a issue da pratica01"
+title: "[Prática 01] – Estrutura Básica de um Programa em ReactJS"
+labels: ["pratica01"]
 ---
 
 ## 🎯 Objetivo
